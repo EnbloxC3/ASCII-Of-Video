@@ -125,3 +125,5 @@ ASCII_CHARS = " .:-=+*#%@"
 Actually, Do What The F\*ck You Want To Public License (WTFPL)
 
 ---
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EnbloxC3/ASCII-Of-Video)
