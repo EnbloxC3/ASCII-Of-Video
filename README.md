@@ -1,3 +1,5 @@
+<!-- README.md -->
+
 # ASCII-Of-Video
 
 A simple but effective Python script that takes video playback on the terminal to the next level.
@@ -126,4 +128,8 @@ Actually, Do What The F\*ck You Want To Public License (WTFPL)
 
 ---
 
+<!-- Repo Info -->
+
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/EnbloxC3/ASCII-Of-Video)
+![GitHub repo size](https://img.shields.io/github/repo-size/EnbloxC3/ASCII-Of-Video)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/EnbloxC3/ASCII-Of-Video)
